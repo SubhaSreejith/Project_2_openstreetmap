@@ -1,5 +1,13 @@
 Map Area: Bangalore, India
+
 http://www.openstreetmap.org/way/151676284
+
+I chose Bengaluru for my analysis as I knew that the dataset will be large enough to do analysis and it will have opportunities on data wrangling. 
+I am currently living here.
+
+Is there a list of Web sites, books, forums, blog posts, github repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources)? N/A
+
+
 Problems encountered in your map
 The dataset downloaded was for Bangalore. I ran the audit.py program and found very few issues :
 1.	There were a few upper case street types as well as lower case types that contributed to duplicate entries like:
